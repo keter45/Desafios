@@ -8,8 +8,8 @@ Desenvolver uma aplicação para criar, remover, editar e visualizar items da su
 Backend - Precisa ser uma Api
 
 ## Recomendações
-Usar .NET Core para a api
-Usar Vue.js para a criação da interface
+* Usar .NET Core para a api
+* Usar Vue.js para a criação da interface
 
 ## Extras
 Separar objetos por categorias.
