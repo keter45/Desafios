@@ -12,9 +12,9 @@ Backend - Precisa ser uma Api
 * Usar Vue.js para a criação da interface
 
 ## Extras
-*Separar objetos por categorias.
- ** Ex: fazer um botão/comobox para os tipos de alimento.
-*Campo de busca
+* Separar objetos por categorias.
+** Ex: fazer um botão/comobox para os tipos de alimento.
+* Campo de busca
 
 ## Avaliação
 A avaliação será feita com base no seu código.
