@@ -15,8 +15,5 @@ Backend - Precisa ser uma Api
 * Separar objetos por categorias. Ex: fazer um botão/comobox para os tipos de alimento.
 * Campo de busca
 
-## Avaliação
-A avaliação será feita com base no seu código.
-
 ## Forma de Envio
 Crie um projeto no github e o envie para o avaliador.
