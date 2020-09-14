@@ -2,7 +2,7 @@
 O objetivo do desafio é testar seus conhecimentos.
 
 ## Qual o Desafio ?
-Desenvolver uma aplicação para criar, remover, editar e visualizar items da sua escolha (Carros, Placas de video, Alimentos ou Pokemons).
+Desenvolver uma aplicação para criar, remover, editar e visualizar items da sua escolha (Carros/Placas de video/Alimentos/Pokemons/Objetos).
 
 ## Condições
 Backend - Precisa ser uma Api
